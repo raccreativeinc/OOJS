@@ -1,4 +1,5 @@
 const fruits = ['apple', 'pear', 'strawberry'];
 fruitsLength = fruits.length;
+console.log(fruitsLength);
 
-fruits[0];
+console.log(fruits[0]);

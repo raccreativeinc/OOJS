@@ -7,9 +7,7 @@ const ernie = {
     }
 }
 
-ernie.age = 2;
-ernie['age'] = 2;
+console.log(ernie.age);
+console.log(ernie.breed);
 
-ernie.color = 'black';
-
-console.log(ernie);
+ernie.bark();
